@@ -7,6 +7,7 @@ gem "omniauth", "~> 1.2.0"
 gem "omniauth-oauth2", "~> 1.1.0"
 gem "rdoc"
 gem "mime-types", "~> 2.99"
+gem "json", "~> 1.8"
 
 group :test do
   gem "omniauth-facebook"
